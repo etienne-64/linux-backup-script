@@ -1,0 +1,7 @@
+-;localhost;nextcloud;password1;nextcloud;mysql
+# DB to back up
+-;localhost;nextcloud;password2;nextcloud;mysql
+-;localhost;kanboard;password3;kanboard;mysql
+-;localhost;piword;password4;wordpress;mysql
+X;localhost;test;testtest;test;mysql
+X;localhost;test;test;test;psql
