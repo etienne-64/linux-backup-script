@@ -1,1 +1,4 @@
 doc directory
+
+
+./backup_all.sh backup_list_db.csv sql_dumps backup_list_dir.csv
